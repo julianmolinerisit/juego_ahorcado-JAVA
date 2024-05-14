@@ -1,5 +1,8 @@
 import java.util.Scanner;
 
+
+ //Este es el juego del ahorcado. Un clasico.
+
 public class Ahorcado {
     public static void main(String[] args) throws Exception {
         System.out.println("Hello, World!");
